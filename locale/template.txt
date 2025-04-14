@@ -1,0 +1,34 @@
+# textdomain: death_messages
+
+
+
+### init.lua ###
+
+melted into a ball of fire.=
+thought lava was cool.=
+melted into a ball of fire.=
+couldn't resist that warm glow of lava.=
+dug straight down.=
+didn't know lava was hot.=
+
+
+drowned.=
+ran out of air.=
+failed at swimming lessons.=
+tried to impersonate an anchor.=
+forgot he wasn't a fish.=
+blew one too many bubbles."=
+
+
+burned to a crisp.=
+got a little too warm.=
+got too close to the camp fire.=
+just got roasted, hotdog style.=
+got burned up. More light that way.=
+
+
+died.=
+did something fatal.=
+gave up on life.=
+is somewhat dead now.=
+passed out -permanently.=
