@@ -210,10 +210,8 @@ minetest.register_on_dieplayer(function(player)
     if last_damage[player_name] then
         local mob_name = last_damage[player_name].mob_name
         local message = get_message("mob")
-        local translated_message = S(message)
-
-        -- Replace mob placeholder with actual mob name
-        translated_message = translated_message:gsub("{mob}", mob_name)
+        -- Minetest uses $1, $2 etc for parameters in translation
+        local translated_message = S(message, mob_name)
         minetest.chat_send_all(display_name .. " " .. translated_message)
 
         -- Log event
