@@ -26,6 +26,11 @@ got too close to the camp fire.=
 just got roasted, hotdog style.=
 got burned up. More light that way.=
 
+was slain by {mob}.=
+fell to the might of {mob}.=
+was defeated by {mob}.=
+met their end at the hands of {mob}.=
+was killed by {mob}.=
 
 died.=
 did something fatal.=
