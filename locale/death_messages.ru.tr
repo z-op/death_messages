@@ -21,11 +21,11 @@ got too close to the camp fire.=подошел слишком близко к к
 just got roasted, hotdog style.=только что поджарился, как хотдог.
 got burned up. More light that way.=сгорел.
 
-was slain by $1.=был сражен $1.
-fell to the might of $1.=пал от мощи $1.
-was defeated by $1.=был побежден $1.
-met their end at the hands of $1.=встретил свой конец от рук $1.
-was killed by $1.=был убит $1.
+was slain by @1.=был сражен @1.
+fell to the might of @1.=пал от мощи @1.
+was defeated by @1.=был побежден @1.
+met their end at the hands of @1.=встретил свой конец от рук @1.
+was killed by @1.=был убит @1.
 
 died.=умер.
 did something fatal.=совершил нечто фатальное.
