@@ -65,11 +65,11 @@ local messages = {
 
     -- Mob-related deaths
     mob = {
-        "was slain by {mob}.",
-        "fell to the might of {mob}.",
-        "was defeated by {mob}.",
-        "met their end at the hands of {mob}.",
-        "was killed by {mob}."
+        "was slain by $1.",
+        "fell to the might of $1.",
+        "was defeated by $1.",
+        "met their end at the hands of $1.",
+        "was killed by $1."
     },
 
     -- Generic/other deaths
